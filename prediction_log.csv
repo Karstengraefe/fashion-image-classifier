@@ -1,0 +1,159 @@
+2025-04-19 01:57:04,825 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-19 01:57:04,898 - Loaded 10 images for prediction.
+2025-04-19 01:57:05,072 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-19 01:57:05,073 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-19 01:57:05,073 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-19 01:57:05,073 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-19 01:57:05,073 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-19 01:57:05,073 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-19 01:57:05,073 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-19 01:57:05,073 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-19 01:57:05,073 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-19 01:57:05,074 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-19 01:57:05,074 - Prediction batch completed.
+2025-04-23 02:21:23,608 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-23 02:21:23,680 - Loaded 10 images for prediction.
+2025-04-23 02:21:23,894 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-23 02:21:23,894 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-23 02:21:23,894 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-23 02:21:23,894 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-23 02:21:23,894 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-23 02:21:23,894 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-23 02:21:23,894 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-23 02:21:23,894 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-23 02:21:23,894 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-23 02:21:23,894 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-23 02:21:23,894 - Prediction batch completed.
+2025-04-23 18:21:18,473 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-23 18:21:18,546 - Loaded 10 images for prediction.
+2025-04-23 18:21:18,719 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-23 18:21:18,719 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-23 18:21:18,719 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-23 18:21:18,719 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-23 18:21:18,719 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-23 18:21:18,719 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-23 18:21:18,719 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-23 18:21:18,719 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-23 18:21:18,719 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-23 18:21:18,719 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-23 18:21:18,719 - Prediction batch completed.
+2025-04-23 18:26:13,103 - Loaded 10 images for prediction.
+2025-04-23 18:26:13,180 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-23 18:26:13,180 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-23 18:26:13,180 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-23 18:26:13,180 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-23 18:26:13,180 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-23 18:26:13,180 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-23 18:26:13,180 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-23 18:26:13,180 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-23 18:26:13,180 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-23 18:26:13,180 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-23 18:26:13,180 - Prediction batch completed.
+2025-04-24 01:00:02,566 - Loaded 10 images for prediction.
+2025-04-24 01:00:02,645 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-24 01:00:02,645 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-24 01:00:02,645 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-24 01:00:02,645 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-24 01:00:02,645 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-24 01:00:02,645 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-24 01:00:02,645 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-24 01:00:02,645 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-24 01:00:02,645 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-24 01:00:02,645 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-24 01:00:02,645 - Prediction batch completed.
+2025-04-25 01:00:11,605 - Loaded 10 images for prediction.
+2025-04-25 01:00:11,814 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-25 01:00:11,814 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-25 01:00:11,814 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-25 01:00:11,814 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-25 01:00:11,814 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-25 01:00:11,814 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-25 01:00:11,814 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-25 01:00:11,814 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-25 01:00:11,814 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-25 01:00:11,814 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-25 01:00:11,814 - Prediction batch completed.
+2025-04-26 01:00:11,407 - Loaded 10 images for prediction.
+2025-04-26 01:00:11,609 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-26 01:00:11,609 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-26 01:00:11,609 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-26 01:00:11,609 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-26 01:00:11,609 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-26 01:00:11,609 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-26 01:00:11,609 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-26 01:00:11,609 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-26 01:00:11,609 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-26 01:00:11,609 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-26 01:00:11,609 - Prediction batch completed.
+2025-04-27 01:00:11,481 - Loaded 10 images for prediction.
+2025-04-27 01:00:11,689 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-27 01:00:11,689 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-27 01:00:11,689 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-27 01:00:11,689 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-27 01:00:11,689 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-27 01:00:11,689 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-27 01:00:11,689 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-27 01:00:11,689 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-27 01:00:11,689 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-27 01:00:11,689 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-27 01:00:11,689 - Prediction batch completed.
+2025-04-28 01:00:10,325 - Loaded 10 images for prediction.
+2025-04-28 01:00:10,501 - Image: 1163.jpg, Predicted Category: Shirts
+2025-04-28 01:00:10,501 - Image: 1164.jpg, Predicted Category: Shirts
+2025-04-28 01:00:10,501 - Image: 2658.jpg, Predicted Category: Handbags
+2025-04-28 01:00:10,501 - Image: 2659.jpg, Predicted Category: Handbags
+2025-04-28 01:00:10,501 - Image: 2670.jpg, Predicted Category: Handbags
+2025-04-28 01:00:10,501 - Image: 2671.jpg, Predicted Category: Handbags
+2025-04-28 01:00:10,501 - Image: 45174.jpg, Predicted Category: Watches
+2025-04-28 01:00:10,501 - Image: 45175.jpg, Predicted Category: Watches
+2025-04-28 01:00:10,501 - Image: 45191.jpg, Predicted Category: Watches
+2025-04-28 01:00:10,501 - Image: 45192.jpg, Predicted Category: Watches
+2025-04-28 01:00:10,501 - Prediction batch completed.
+2025-05-01 01:00:11,361 - Loaded 10 images for prediction.
+2025-05-01 01:00:11,571 - Image: 1163.jpg, Predicted Category: Shirts
+2025-05-01 01:00:11,572 - Image: 1164.jpg, Predicted Category: Shirts
+2025-05-01 01:00:11,572 - Image: 2658.jpg, Predicted Category: Handbags
+2025-05-01 01:00:11,572 - Image: 2659.jpg, Predicted Category: Handbags
+2025-05-01 01:00:11,572 - Image: 2670.jpg, Predicted Category: Handbags
+2025-05-01 01:00:11,572 - Image: 2671.jpg, Predicted Category: Handbags
+2025-05-01 01:00:11,572 - Image: 45174.jpg, Predicted Category: Watches
+2025-05-01 01:00:11,572 - Image: 45175.jpg, Predicted Category: Watches
+2025-05-01 01:00:11,572 - Image: 45191.jpg, Predicted Category: Watches
+2025-05-01 01:00:11,572 - Image: 45192.jpg, Predicted Category: Watches
+2025-05-01 01:00:11,572 - Prediction batch completed.
+2025-05-02 01:00:13,690 - Loaded 10 images for prediction.
+2025-05-02 01:00:13,894 - Image: 1163.jpg, Predicted Category: Shirts
+2025-05-02 01:00:13,894 - Image: 1164.jpg, Predicted Category: Shirts
+2025-05-02 01:00:13,894 - Image: 2658.jpg, Predicted Category: Handbags
+2025-05-02 01:00:13,894 - Image: 2659.jpg, Predicted Category: Handbags
+2025-05-02 01:00:13,894 - Image: 2670.jpg, Predicted Category: Handbags
+2025-05-02 01:00:13,894 - Image: 2671.jpg, Predicted Category: Handbags
+2025-05-02 01:00:13,894 - Image: 45174.jpg, Predicted Category: Watches
+2025-05-02 01:00:13,894 - Image: 45175.jpg, Predicted Category: Watches
+2025-05-02 01:00:13,894 - Image: 45191.jpg, Predicted Category: Watches
+2025-05-02 01:00:13,894 - Image: 45192.jpg, Predicted Category: Watches
+2025-05-02 01:00:13,894 - Prediction batch completed.
+2025-05-03 01:00:10,172 - Loaded 10 images for prediction.
+2025-05-03 01:00:10,363 - Image: 1163.jpg, Predicted Category: Shirts
+2025-05-03 01:00:10,363 - Image: 1164.jpg, Predicted Category: Shirts
+2025-05-03 01:00:10,363 - Image: 2658.jpg, Predicted Category: Handbags
+2025-05-03 01:00:10,363 - Image: 2659.jpg, Predicted Category: Handbags
+2025-05-03 01:00:10,363 - Image: 2670.jpg, Predicted Category: Handbags
+2025-05-03 01:00:10,364 - Image: 2671.jpg, Predicted Category: Handbags
+2025-05-03 01:00:10,364 - Image: 45174.jpg, Predicted Category: Watches
+2025-05-03 01:00:10,364 - Image: 45175.jpg, Predicted Category: Watches
+2025-05-03 01:00:10,364 - Image: 45191.jpg, Predicted Category: Watches
+2025-05-03 01:00:10,364 - Image: 45192.jpg, Predicted Category: Watches
+2025-05-03 01:00:10,364 - Prediction batch completed.
+2025-05-07 01:00:16,047 - Loaded 10 images for prediction.
+2025-05-07 01:00:16,358 - Image: 1163.jpg, Predicted Category: Shirts
+2025-05-07 01:00:16,358 - Image: 1164.jpg, Predicted Category: Shirts
+2025-05-07 01:00:16,358 - Image: 2658.jpg, Predicted Category: Handbags
+2025-05-07 01:00:16,358 - Image: 2659.jpg, Predicted Category: Handbags
+2025-05-07 01:00:16,358 - Image: 2670.jpg, Predicted Category: Handbags
+2025-05-07 01:00:16,359 - Image: 2671.jpg, Predicted Category: Handbags
+2025-05-07 01:00:16,359 - Image: 45174.jpg, Predicted Category: Watches
+2025-05-07 01:00:16,359 - Image: 45175.jpg, Predicted Category: Watches
+2025-05-07 01:00:16,359 - Image: 45191.jpg, Predicted Category: Watches
+2025-05-07 01:00:16,359 - Image: 45192.jpg, Predicted Category: Watches
+2025-05-07 01:00:16,359 - Prediction batch completed.
